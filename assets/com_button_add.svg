@@ -1,0 +1,7 @@
+<svg id="com_button_add" xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <path id="中マド_1" data-name="中マド 1" d="M6588,12101a40,40,0,1,1-40,40A40,40,0,0,1,6588,12101Z" transform="translate(-6548 -12101)" fill="red"/>
+  <g id="グループ_536" data-name="グループ 536" transform="translate(-1323 -1140)">
+    <rect id="長方形_464" data-name="長方形 464" width="40" height="10" rx="5" transform="translate(1343 1175)" fill="#fff"/>
+    <rect id="長方形_465" data-name="長方形 465" width="40" height="10" rx="5" transform="translate(1368 1160) rotate(90)" fill="#fff"/>
+  </g>
+</svg>

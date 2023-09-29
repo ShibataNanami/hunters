@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <g id="グループ_564" data-name="グループ 564" transform="translate(-48 -711.999)">
+    <g id="グループ_537" data-name="グループ 537">
+      <g id="グループ_498" data-name="グループ 498" transform="translate(-1179 397)">
+        <circle id="楕円形_36" data-name="楕円形 36" cx="120" cy="120" r="120" transform="translate(1235 323)" fill="#c8c8c8"/>
+        <ellipse id="楕円形_13" data-name="楕円形 13" cx="43.5" cy="43" rx="43.5" ry="43" transform="translate(1310 357)" fill="#8b8b8b"/>
+        <path id="交差_2" data-name="交差 2" d="M.3,52.039a72.024,72.024,0,0,1,139.1,2.625A95.7,95.7,0,0,1,71.094,83.2,95.757,95.757,0,0,1,.3,52.039Z" transform="translate(1283.906 455.799)" fill="#8b8b8b"/>
+        <path id="前面オブジェクトで型抜き_2" data-name="前面オブジェクトで型抜き 2" d="M128,256A128.034,128.034,0,0,1,78.175,10.059a128.033,128.033,0,0,1,99.648,235.882A127.221,127.221,0,0,1,128,256Zm0-236.8A108.8,108.8,0,1,0,236.8,128,108.922,108.922,0,0,0,128,19.2Z" transform="translate(1227 315)" fill="#8b8b8b"/>
+      </g>
+    </g>
+  </g>
+</svg>
